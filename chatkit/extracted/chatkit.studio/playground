@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Explore and build embeddable chat experiences" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!-- Preload fonts -->
+    <link rel="preconnect" href="https://cdn.openai.com" />
+    <link
+      rel="preload"
+      href="https://cdn.openai.com/common/fonts/openai-sans/v2/OpenAISans-Regular.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="preload"
+      href="https://cdn.openai.com/common/fonts/openai-sans/v2/OpenAISans-Semibold.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin="anonymous"
+    />
+    <!-- Social -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="ChatKit Studio" />
+    <meta property="og:description" content="Explore and build embeddable chat experiences" />
+    <meta property="og:image" content="/social-chatkit-studio.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="ChatKit Studio" />
+    <meta name="twitter:description" content="Explore and build embeddable chat experiences" />
+    <meta name="twitter:image" content="/social-chatkit-studio.png" />
+    <title>ChatKit Studio</title>
+    <script src="https://cdn.platform.openai.com/deployments/chatkit/chatkit.js"></script>
+    <script type="module" crossorigin src="/assets/index-DGyFsack.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CJbxokfm.css">
+  </head>
+  <body class="antialiased">
+    <div id="root"></div>
+  </body>
+</html>
