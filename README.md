@@ -1,56 +1,27 @@
 # Olaf Kupschina
 
-**Enterprise AI Agent Architect · 25-Year FinTech & Banking Leader**  
-*Building autonomous multi-agent systems where software executes and people decide.*
+I have written code since I was 8. Forty years of it, from Z80 assembler to agent swarms. The agents do the heavy work. People make the calls. I build the system in between.
 
-`● Building Autonomous AI Systems · Brugg, Switzerland`
+Brugg, Switzerland.
 
----
+## The record
 
-### Proof & Track Record
+- More than 25 years in banking technology, at UBS Investment Bank and Global Wealth Management.
+- I was Head of Investment Advisory & Sales Platforms at UBS Global Wealth Management, with a team of 40.
+- At UBS CIO I built an internal AI agent platform from scratch, with one intern. More than 4,000 people use it.
+- I founded [Work/Life 2.0](https://paradaice.info), an AI agent research lab with a public showroom.
 
-- **4,000+ Enterprise Users** · Built an internal AI agent platform from scratch at UBS CIO with one intern.
-- **25+ Years Banking Technology** · Tier-1 financial architecture across UBS Investment Bank & Global Wealth Management.
-- **40-Person Platform Org Head** · Former Head of Investment Advisory & Sales Platforms at UBS GWM.
-- **Founder** · [Work/Life 2.0](https://paradaice.info) — non-profit AI agent research lab & living showroom.
+## Where to look
 
----
+- [daice.net](https://daice.net). The same record, the systems, and the lab tracks.
+- [CEO Cockpit demo](https://pitches.daice.net/executive/). A clickable prototype with made-up data, not a product.
+- [Work/Life 2.0 showroom](https://paradaice.info/showroom)
+- [Pitches](https://pitches.daice.net/). Prototypes for local businesses. The public copies use placeholder names.
 
-### Quick Links
+## Systems
 
-- 🌐 **[daice.net](https://daice.net)** — Personal live business card, featured production systems & lab tracks
-- ⚡ **[CEO Cockpit Demo](https://pitches.daice.net/executive/)** — Interactive prototype: steering digital teams with one-tap approvals
-- ◈ **[Work/Life 2.0 Showroom](https://paradaice.info/showroom)** — Living showroom of autonomous agents and production telemetry
-- 📦 **[Pitches & Local Prototypes](https://pitches.daice.net/)** — Real-world business modernisations and client prototypes
-
----
-
-### Featured Systems
-
-- **[tiny-claw](https://paradaice.info/showroom/tiny-claw)** · Autonomous agent orchestrator. Hand it a mandate; it reads, searches, and codes independently.
-- **[Olaf//Desk](https://paradaice.info/showroom/olaf-desk)** · Personal paper-to-checklist administrative pipeline with strict human approval gates.
-- **[spec-ops](https://paradaice.info/showroom/spec-ops)** · Conversational multimodal AI through smart glasses with cloud agent dispatch.
-- **[big-sister](https://paradaice.info/showroom/big-sister)** · Real-time operational dashboard for multi-agent co-working.
-- **[SignalForge](https://paradaice.info/showroom/signalforge)** · Autonomous quant research engine evaluating out-of-sample market edge.
-
----
-
-### Career & Engineering Roots
-
-- **2021 – 2026 · UBS Global Wealth Management, Chief Investment Office**  
-  Built an internal AI agent platform from scratch with one intern; 4,000+ colleagues used it.
-- **2014 – 2021 · UBS Global Wealth Management, COO**  
-  Head of Investment Advisory & Sales Platforms, management committee. Led ~40 people delivering the change programmes for all portfolio risk engines and investment advisory platforms. IT for the business, business for IT.
-- **2012 – 2013 · MIG Bank, Lausanne**  
-  Head of Development.
-- **2001 – 2011 · UBS Investment Bank**  
-  FX and structured products. Executive Director, global head of the FX structured flow function, team of 28.
-- **1999 – 2000 · Timeware**  
-  Developer: Delphi, C++, SAP interfaces.
-- **1993 – 1997 · Paul Scherrer Institute**  
-  Electronics apprenticeship: C, Pascal, assembler.
-
-**Education & Credentials:**
-- Master in Wealth Management, UBS × Rochester-Bern Executive Programs (2016 – 2018):  
-  MAS in Finance (University of Bern) · MSc in Wealth Management (University of Rochester).
-- Dipl. Informatik, FH Aargau (2000).
+- [tiny-claw](https://paradaice.info/showroom/tiny-claw). I hand it a mandate and get verified results back. It reads the code, edits across files, and runs the tests.
+- [Olaf//Desk](https://paradaice.info/showroom/olaf-desk). Paper in, one checklist out. It spends nothing and sends nothing without a yes.
+- [spec-ops](https://paradaice.info/showroom/spec-ops). I talk to an AI through smart glasses. It sees what I see, answers in my ear, and hands the heavy jobs to agent pods.
+- [big-sister](https://paradaice.info/showroom/big-sister). The live board of a lab where people and agents work together, and the agents do most of the building, the checks and the ops.
+- [SignalForge](https://paradaice.info/showroom/signalforge). An autonomous quant research engine. It takes in real-time tick and order-book data, trains models and tests them for out-of-sample edge. "no" counts as a result.
